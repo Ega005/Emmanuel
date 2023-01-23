@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.firstsection{
+    background-image:url(./image/house.jpg) ;
+    height: 30rem;
+    background-size: cover;
+background-blend-mode:overlay ;
+background-color: rgb(0, 0, 0, 0.404);
+}
+.stage{
+    color:white;
+    margin-top: 1rem;
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+    .num{
+        color: red;
+    }
+.call{
+    color: white;
+}
+.nav{
+    display: flex;  
+}
+li{
+    list-style: none;
+    margin-left: 10%;
+}
+ul{
+    display: flex;
+    margin-left: 23rem;
+    margin-top: 1rem;
+}
+.navlast{
+    margin-left: 30rem;
+    margin-top: 1rem;
+}
+.middletext{
+    width: 25rem;
+    margin: 6rem auto 0 auto;
+    text-align: center;
+    color: white;
+    font-family: helvetica;
+}
+
+.but{
+    color:aliceblue ;
+    background-color: transparent;
+    border-color: aliceblue;
+}

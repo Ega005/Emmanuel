@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    margin: 0;
+    border-radius: border-box;
+}
+.box{
+    width: 30rem;
+    height: 35rem;
+    border: 2px solid black;
+    margin: 0 auto;
+    position: relative;
+}
+.box > div {
+    width: 15rem;
+    height: 15rem;
+    border: 2px solid black;
+}
+.box-red{
+    background-color: red;
+    position: absolute;
+    left: 1rem;
+    top: 1rem;
+    /* z-index: 1; */
+}
+.box-blue {
+    background-color: green;
+    position:absolute ;
+    left: 3rem;
+    top: 3rem;
+}
+.box-green{
+    background-color: blue;
+    position: absolute;
+    left: 5rem;
+    top: 5rem;
+}
+.box-purple{
+    background-color: grey;
+    position: absolute;
+    left: 8rem;
+    top: 8rem;
+}
+.box-yellow{
+    background-color: yellow;
+    position: absolute;
+    left: 10rem;
+    top: 10rem;
+}
+.box-red2{
+    background-color:pink;
+    position: absolute;
+    left: 12rem;
+    top: 12rem;
+}
+.box-ash{
+    background-color: yellow;
+    position: absolute;
+    left: 14rem;
+    top: 14rem;
+}
+.box-pink{
+    background-color: purple;
+    position: absolute;
+    left: 16rem;
+    top: 16rem;
+}

@@ -1,0 +1,14 @@
+div{
+    border: 5px solid red;
+    height: 30rem;
+    width: 30rem;
+    margin-bottom: 1rem;
+}
+body{
+    position: relative;
+}
+.absolute{
+    position: fixed;
+    border-color: green;
+
+}

@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+font-family: sans-serif;
+}
+body{
+    background-color: rgb(233, 241, 241);
+}
+.heading{
+    margin-left:9cm;
+    text-decoration-color: black;
+}
+.background{
+    background-color: aqua;
+   
+}
